@@ -8,7 +8,7 @@ import java.util.Calendar;
 
 public interface GlobalVariable {
 
-    public static final String IPSERVIDOR = "ec.unisc.br";
+    public static final String IPSERVIDOR = "ip";
     public static final String PORTSERVIDOR = "8080";
 
     public static final int REQUEST_CAMERA = 1000;
